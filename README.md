@@ -9,7 +9,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=truongnhatbui.truongnhatbui)
 
-I am **Analyst. Advisor. Architect.** for developing Minimum Lovable Product & Minimum Viable Product (MVP) resulting from the convergence of Machine Intelligence, Digital Transformation and Modern Infrastructure.
+I am **Analyst. Advisor. Architect.** for analyzing, architecting, developing scalable Minimum Lovable Product (MLP) & Minimum Viable Product (MVP) applications based on Cloud Native Architecture (Containers & Microservices) and Machine learning (ML) & Artificial intelligence (AI).
 
 <img align="right" alt="GIF" src="https://res.cloudinary.com/truong/image/upload/v1625740924/Assets/coding.gif" width="408" height="318" />
   
