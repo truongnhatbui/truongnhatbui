@@ -14,7 +14,8 @@
 I am passionate about the opportunities resulting from the convergence of Machine Intelligence, Digital Transformation and Modern Infrastructure.
 </p>
 <p>
-In my +13 years of industry experience spanning software outsourcing and product company I worked extensively with Enterprises, Independent Software Vendors, and Startups, which helps in delivering value to my clients.
+In my +13 years of industry experience spanning the leading software product & outsourcing, Banking, Financial Services and Insurance (BFSI) and 
+Fast-moving consumer goods (FMCG) company I worked extensively with Enterprises, Independent Software Vendors, and Startups, which helps in delivering value to my clients.
 </p>
 <p>
 My current focus is on in-depth research and analysis of Emerging Technologies, Digital Transformation, Strategic Advisory to product companies, and architecting scalable applications based on Cloud Native Architecture.
