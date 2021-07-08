@@ -21,10 +21,10 @@ My current focus is on in-depth research and analysis of Emerging Technologies, 
 </p>
 <p>
 I am an Industry Analyst, Strategic Advisor, and a Practicing Architect. Through my speaking, writing, and analysis, I help businesses take advantage of Emerging Technologies.
-To keep myself relevant and current, I regularly pursue industry certifications.
+To keep myself relevant and current, I regularly pursue industry certifications .
 </p>
 <p>
-I am a certified Amazon Web Services (AWS) Cloud Architect, Azure Cloud Architect, Google Digital Marketing Professional, Business Analysis Professional, Business Process Model and Notation (BPMN), Project Management Professional (PMP).
+I am a certified Amazon Web Services (AWS) Cloud Architect, Azure Cloud Architect, Google Digital Marketing Professional, Business Analysis Professional, Business Process Model and Notation (BPMN), Project Management Professional (PMP), etc. 
 </p>
 
 <p>
@@ -47,12 +47,12 @@ I play the role of a consulting product manager and product owner. From identify
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
+- 👨🏻‍💻 I’m currently working on BFSI projects;
 - 🚀 I’m currently learning @ [Udacity](https://www.udacity.com/), [Pluralsight](https://www.pluralsight.com/), [Coursera](https://www.coursera.org/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://truongbn.medium.com/) and my website [truongbui.com](https://www.truongbui.com/) ;
 - 📫 How to reach me: TruongBN@gmail.com;
-- 📝 [Resume](https://www.linkedin.com/in/truongbui/).
+- 📝 [Resume](https://www.linkedin.com/in/truongbui/). View my Achievements & Certificates @ [Credly](https://www.credly.com/users/truong/badges), [Credential](https://www.credential.net/profile/buinhattruong442167/wallet), [Badgr](https://badgr.com/backpack/badges)
 
 </br>
 
