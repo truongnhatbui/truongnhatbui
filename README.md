@@ -30,15 +30,15 @@ I am a certified Amazon Web Services (AWS) Cloud Architect, Azure Cloud Architec
 <p>
 I engage with Cloud Providers, Platform Companies, and Startups 
 </p>
-**Research & Analysis**
+Research & Analysis
 <p>
 I provide Landscape Analysis, Industry Trends, Competitive Intelligence, Technology Assessment, Vendor Evaluation, and Strategic Advisory to my clients.
 </p>
-**Outreach & Consulting**
+Outreach & Consulting
 <p>
 I help Platform Companies in defining the user persona, identifying the target audience, and selecting appropriate channels to engage with them. I enable my clients to amplify the message and maximize outreach.
 </p>
-**Product Management**
+Product Management
 <p>
 I play the role of a consulting product manager and product owner. From identifying the market opportunity to creating specifications to developing a Proof of Concept (POC) to collaborating with the engineering team, I can manage the entire product lifecycle.
 </p>
@@ -48,7 +48,7 @@ I play the role of a consulting product manager and product owner. From identify
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Cloud Native Application Architecture and AWS Machine Learning on [Udacity](https://www.udacity.com/);
+- 🚀 I’m currently learning @ [Udacity](https://www.udacity.com/), [Pluralsight](https://www.pluralsight.com/), [Coursera](https://www.coursera.org/);
 - 💬 Ask me about anything, I am happy to help;
 - 📝 I regulary write articles on [medium](https://truongbn.medium.com/) and my website [truongbui.com](https://www.truongbui.com/) ;
 - 📫 How to reach me: TruongBN@gmail.com;
