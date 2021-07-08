@@ -19,7 +19,6 @@ In my +13 years of industry experience spanning software outsourcing and product
 <p>
 My current focus is on in-depth research and analysis of Emerging Technologies, Digital Transformation, Strategic Advisory to product companies, and architecting scalable applications based on Cloud Native Architecture.
 </p>
-**Independent. Authoritative. Opinionated.**
 <p>
 I am an Industry Analyst, Strategic Advisor, and a Practicing Architect. Through my speaking, writing, and analysis, I help businesses take advantage of Emerging Technologies.
 To keep myself relevant and current, I regularly pursue industry certifications.
@@ -27,7 +26,7 @@ To keep myself relevant and current, I regularly pursue industry certifications.
 <p>
 I am a certified Amazon Web Services (AWS) Cloud Architect, Azure Cloud Architect, Google Digital Marketing Professional, Business Analysis Professional, Business Process Model and Notation (BPMN), Project Management Professional (PMP).
 </p>
-**OFFERINGS**
+
 <p>
 I engage with Cloud Providers, Platform Companies, and Startups 
 </p>
