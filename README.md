@@ -14,7 +14,7 @@ I am **Analyst. Advisor. Architect.** for analyzing, architecting, developing sc
 <img align="right" alt="GIF" src="https://res.cloudinary.com/truong/image/upload/v1625740924/Assets/coding.gif" width="408" height="318" />
   
 
-**Talking about Personal Stuffs:**
+**Talking About Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on BFSI projects;
 - 🚀 I’m currently learning @ [Udacity](https://www.udacity.com/), [Pluralsight](https://www.pluralsight.com/), [Coursera](https://www.coursera.org/);
@@ -24,6 +24,10 @@ I am **Analyst. Advisor. Architect.** for analyzing, architecting, developing sc
 - 📝 [Resume](https://www.linkedin.com/in/truongbui/). View my Achievements & Certificates @ [Credly](https://www.credly.com/users/truong/badges), [Credential](https://www.credential.net/profile/buinhattruong442167/wallet), [Badgr](https://badgr.com/backpack/badges)
 
 </br>
+
+📝 **My Latest Articles**
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
