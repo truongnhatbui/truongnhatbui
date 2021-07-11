@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Get RSS Feed
-        uses: truongnhatbui/truongnhatbui@main
+        uses: truongnhatbui/truongnhatbui@master
         with:
           feed_url: https://www.truongbui.com/feed.xml
           count: 6 # default 5
@@ -22,6 +22,6 @@ jobs:
             git add .
             git diff --quiet --cached || git commit -m "Update README"    
       - name: Push changes
-        uses: ad-m/github-push-action@main
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.YOUR_TOKEN }}
