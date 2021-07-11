@@ -25,7 +25,7 @@ I am **Analyst. Advisor. Architect.** for analyzing, architecting, developing sc
 
 </br>
 
-📝 **My Latest Articles**
+📝 [**My Latest Articles**](https://www.truongbui.com/posts)
 <!-- BLOGPOSTS:START -->
 <!-- BLOGPOSTS:END -->
 
