@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T14:44:10.436Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="lSgyE3tpXNSAiwF3RCEq" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T14:44:59.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="Z1ndRvvCo1jnPYjjIbF4" version="14.9.0" type="github">
   <diagram id="BuNmfUmxMsJZTsEHqmkD" name="Page-1">
     <mxGraphModel dx="1422" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
           <mxGeometry x="257.495" y="470" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fVhf0-IRCNoqrwi-QjWI-22" value="Microsoft Certified: Azure Data Engineer Associate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="255" y="615" width="161.25" height="40" as="geometry" />
+          <mxGeometry x="255" y="540" width="161.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fVhf0-IRCNoqrwi-QjWI-24" value="Microsoft Certified: Azure AI Engineer Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.5" y="310" width="161.25" height="40" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="fVhf0-IRCNoqrwi-QjWI-36" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=#000000;gradientColor=none;image=https://images.credly.com/size/110x110/images/5c8fca38-b0d2-49e5-9ad2-f3f8e79b327f/azure-data-scientist-associate-600x600.png;" vertex="1" parent="1">
           <mxGeometry x="283.13" y="360" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-37" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;strokeColor=#000000;gradientColor=none;image=https://images.credly.com/size/110x110/images/1fab226c-0e60-4b45-9853-1905a4b6853a/azure-ai-engineer-600x600.png;" vertex="1" parent="1">
+          <mxGeometry x="284.38" y="200" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
