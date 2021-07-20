@@ -1,4 +1,4 @@
-# [![LOGO][logo-image]][logo-url]  **Truong** 
+# **Truong** 
 
 Analyst. Advisor. Architect.
 
