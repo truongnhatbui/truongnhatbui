@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-07-20T14:35:09.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="ikMlRGgM9YjJxMdoE4oW" version="14.9.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-20T14:38:08.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.70" etag="jKLefNN8lBzuWMj_l4f5" version="14.9.0" type="github">
   <diagram id="BuNmfUmxMsJZTsEHqmkD" name="Page-1">
-    <mxGraphModel dx="1422" dy="1644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fVhf0-IRCNoqrwi-QjWI-2" value="Azure Data &amp;amp; AI" style="swimlane;html=1;startSize=20;horizontal=0;childLayout=flowLayout;flowOrientation=west;resizable=0;interRankCellSpacing=50;containerType=tree;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-150" width="620" height="420" as="geometry" />
+          <mxGeometry x="130" y="580" width="620" height="220" as="geometry" />
         </mxCell>
         <mxCell id="fVhf0-IRCNoqrwi-QjWI-3" value="Microsoft Certified: Azure Fundamentals&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="fVhf0-IRCNoqrwi-QjWI-2">
           <mxGeometry x="40" y="90" width="140" height="40" as="geometry" />
@@ -56,19 +56,58 @@
         </mxCell>
         <mxCell id="fVhf0-IRCNoqrwi-QjWI-17" value="" style="html=1;curved=1;noEdgeStyle=1;orthogonal=1;" edge="1" parent="fVhf0-IRCNoqrwi-QjWI-2" source="fVhf0-IRCNoqrwi-QjWI-3" target="fVhf0-IRCNoqrwi-QjWI-16">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1260" y="622.5" as="sourcePoint" />
-            <mxPoint x="1310" y="650" as="targetPoint" />
+            <mxPoint x="1860" y="922.5" as="sourcePoint" />
+            <mxPoint x="1910" y="950" as="targetPoint" />
             <Array as="points">
               <mxPoint x="192" y="120" />
               <mxPoint x="218" y="180" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="fVhf0-IRCNoqrwi-QjWI-15" value="Microsoft Certified: Azure AI Fundamentals&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="fVhf0-IRCNoqrwi-QjWI-2">
-          <mxGeometry x="40" y="260" width="140" height="40" as="geometry" />
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-15" value="Microsoft Certified: Azure AI Fundamentals&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="fVhf0-IRCNoqrwi-QjWI-14" value="Microsoft Certified: Azure Data Fundamentals&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="fVhf0-IRCNoqrwi-QjWI-2">
-          <mxGeometry x="40" y="360" width="140" height="40" as="geometry" />
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-14" value="Microsoft Certified: Azure Data Fundamentals&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-19" value="Microsoft Certified: Azure Fundamentals&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-20" value="Microsoft Certified: Azure Data Scientist Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279.995" y="400" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-22" value="Microsoft Certified: Azure Data Engineer Associate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="161.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-24" value="Microsoft Certified: Azure AI Engineer Associate&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="161.25" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-26" value="Microsoft Certified: Azure Solutions Architect Expert&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="158.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-28" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVhf0-IRCNoqrwi-QjWI-14" target="fVhf0-IRCNoqrwi-QjWI-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="470" as="sourcePoint" />
+            <mxPoint x="570" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-29" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fVhf0-IRCNoqrwi-QjWI-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="470" as="sourcePoint" />
+            <mxPoint x="280" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-30" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVhf0-IRCNoqrwi-QjWI-15" target="fVhf0-IRCNoqrwi-QjWI-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="390" as="sourcePoint" />
+            <mxPoint x="260" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fVhf0-IRCNoqrwi-QjWI-31" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fVhf0-IRCNoqrwi-QjWI-19" target="fVhf0-IRCNoqrwi-QjWI-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="310" as="sourcePoint" />
+            <mxPoint x="250" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
