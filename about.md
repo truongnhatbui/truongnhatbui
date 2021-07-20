@@ -1,5 +1,4 @@
 # [![LOGO][logo-image]][logo-url]  **Truong** 
-[![Build Status][travis-image]][travis-url] [![License][license-image]][license-url] [![Code Style][code-style-image]][code-style-url]
 
 Analyst. Advisor. Architect.
 
@@ -18,5 +17,3 @@ If you have any <a href="https://feedback.userreport.com/ae473b9e-528e-433b-82c6
 Truong (he/his/him)
 
 ---
-
-Follow [Truong](https://www.truongbui.com/?utm_source=truongbui.com&utm_medium=website&utm_campaign=read_about&utm_term=about&utm_content=textlink) on &nbsp;<a href="https://www.linkedin.com/in/truongbui?utm_source=truongbui.com&utm_medium=website&utm_campaign=website_to_social&utm_term=linkedin&utm_content=textlink">Linkedin</a>&nbsp; and &nbsp;<a href="https://twitter.com/truongbui?utm_source=truongbui.com&utm_medium=website&utm_campaign=website_to_social&utm_term=twitter&utm_content=textlink">Twitter</a>. &nbsp; Read my &nbsp;<a href="https://www.truongbui.com/posts?utm_source=truongbui.com&utm_medium=website&utm_campaign=read_posts&utm_term=posts&utm_content=textlink">latest posts</a>, &nbsp; <a href="https://www.truongbui.com/tags/articles?utm_source=truongbui.com&utm_medium=website&utm_campaign=read_articles&utm_term=articles&utm_content=textlink">articles</a>, &nbsp; <a href="https://www.truongbui.com/photos?utm_source=truongbui.com&utm_medium=website&utm_campaign=view_photos&utm_term=photos&utm_content=textlink">photos & videos</a> and [projects](https://www.truongbui.com/posts/projects). For latest project updates checkout at <a href="https://github.com/truongnhatbui?utm_source=truongbui.com&utm_medium=website&utm_campaign=website_to_social&utm_term=github&utm_content=textlink">GitHub</a> & [Azure DevOps](https://dev.azure.com/truongbn?utm_source=truongbui.com&utm_medium=website&utm_campaign=website_to_social&utm_term=azure&utm_content=textlink).
